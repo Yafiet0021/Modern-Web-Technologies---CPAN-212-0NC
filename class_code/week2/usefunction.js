@@ -1,0 +1,2 @@
+const greetings = require("./functions") 
+
